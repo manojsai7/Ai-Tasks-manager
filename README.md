@@ -1,2 +1,6 @@
 # Ai-Tasks-manager
-changed repo location!
+
+# 🚨 PROJECT MOVED
+
+## This project has moved to:
+## https://github.com/manojsai7/Astra-Ai-Tasks-manager-APK
